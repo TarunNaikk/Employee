@@ -1,2 +1,2 @@
 # Employee
-Employee Management System
+Employee Management System for employees
